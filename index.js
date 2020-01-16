@@ -1,0 +1,1 @@
+image = document.getElementsByTagName('img')[0];image.src='https://stackblitz.com/files/js-cxferk/github/mlindhout/js-cxferk/master/cat.jpg';
